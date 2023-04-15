@@ -1,7 +1,7 @@
 ![alt text](/Computer%20Class_000.jpg)
 # Hello, I'm Justin Ferwerda!
 
-I am an aspiring developer enrolled at Nashville Software School. I am passionate about all things data, and am excited about this coding journey that I'm on!
+I am a software developer passionate about all things data. I love making full-stack projects and especially love backend and business logic. I am currently a part-time instructor at Nashville Software School teaching Python/Django.
 
 ### About Me
 
