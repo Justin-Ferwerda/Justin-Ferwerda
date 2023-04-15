@@ -1,4 +1,4 @@
-![alt text](/Computer%20Class.jpg)
+![alt text](/Computer%20Class.mp4)
 # Hello, I'm Justin Ferwerda!
 
 I am an aspiring developer enrolled at Nashville Software School. I am passionate about all things data, and am excited about this coding journey that I'm on!
