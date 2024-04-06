@@ -1,11 +1,11 @@
 ![alt text](/Computer%20Class_000.jpg)
 # Hello, I'm Justin Ferwerda!
 
-I am a software developer passionate about all things data. I love making full-stack projects and especially love backend and business logic. I am currently a part-time instructor at Nashville Software School teaching Python/Django.
+I am a full-stack software engineer passionate about crafting elegant solutions to complex problems, adept at translating business requirements into technical solutions, and I love all things data!
 
 ### About Me
 
-I have been a full-time musician for many years, but have always enjoyed problem-solving and data-related endeavors. I am excited about a new career and continuing to learn new skills!
+I currently am a senior instructor at Nashville Software School teaching Python and Django. I also am a full-stack engineer at [Repped In Tech](https://www.reppedin.tech/)
 
 ## Connect With Me
 
